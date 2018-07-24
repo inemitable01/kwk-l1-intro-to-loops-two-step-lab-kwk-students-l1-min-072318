@@ -60,6 +60,9 @@ a_few_more_steps
 # def how_many_steps?
 #   # Write a loop that fulfills all criteria from Part 3 of the README.md
 
+steps = 0 
+
+
 
 # def break_dance
 #   # Write a solution that uses the same code as how_many_steps?, but breaks the
