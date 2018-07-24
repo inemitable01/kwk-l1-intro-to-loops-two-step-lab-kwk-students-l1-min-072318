@@ -65,7 +65,7 @@ def how_many_steps
   loop do 
   steps += 1
   if steps == 8
-  puts 'Left' 8 % 2 = 4
+  puts  8 % 2 = 4
 sleep (0.5)
 end
 end
