@@ -62,7 +62,7 @@ a_few_more_steps
 def how_many_steps
 steps == 0 
 steps += 1
-steps= 8
+steps == 8
 puts 8 % 2 == 4
 sleep (0.5)
 end
