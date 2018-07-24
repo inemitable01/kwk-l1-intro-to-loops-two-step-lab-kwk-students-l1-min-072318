@@ -78,3 +78,14 @@ end
 # def break_dance
 #   # Write a solution that uses the same code as how_many_steps?, but breaks the
 #   # loop if steps is equal to 
+def break_dance
+  steps == 0 
+  loop do 
+  steps += 1
+    if steps == 8
+    puts  8 % 2 == 4
+    end
+  sleep (0.5)
+  end
+end
+  break_dance
