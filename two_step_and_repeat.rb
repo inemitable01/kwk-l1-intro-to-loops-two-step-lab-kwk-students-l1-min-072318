@@ -69,7 +69,6 @@ end
 end
  how_many_steps
  
-puts 
 
 
 # def break_dance
