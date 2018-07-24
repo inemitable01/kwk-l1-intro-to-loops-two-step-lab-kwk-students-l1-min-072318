@@ -36,9 +36,7 @@ first_steps
 def a_few_more_steps
   # Write a loop that outputs the first two sets of steps in the Two-Step
  
-  
-  
-  
+
   def a_few_more_steps
   loop do
      puts "Right foot back"
